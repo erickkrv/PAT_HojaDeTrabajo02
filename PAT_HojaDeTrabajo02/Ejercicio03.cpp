@@ -47,5 +47,6 @@ int Ejercicio03::calculate(string s){
         suma = suma + pila.top();
         pila.pop();
     } 
+
     return suma;
 }
